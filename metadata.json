@@ -1,0 +1,5 @@
+{
+  "name": "MotoristaTax - Calculadora de IR",
+  "description": "Calculadora de Imposto de Renda para motoristas de aplicativo com isenção de 40% e assistente de dúvidas tributárias via IA.",
+  "requestFramePermissions": []
+}
